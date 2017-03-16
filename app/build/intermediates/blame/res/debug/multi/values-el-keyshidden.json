@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el-keyshidden/values-el-keyshidden.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 248,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/values-el-keyshidden/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 252,
+                        "endOffset": 1053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endColumn": 275,
+                    "endOffset": 625
+                },
+                "from": {
+                    "file": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/values-el-keyshidden/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1260,
+                        "endColumn": 283,
+                        "endOffset": 1539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 630,
+                    "endColumn": 197,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/values-el-keyshidden/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1058,
+                        "endColumn": 201,
+                        "endOffset": 1255
+                    }
+                }
+            }
+        ]
+    }
+]

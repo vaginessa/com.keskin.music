@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr-finger/values-tr-finger.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 149,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/values-tr-finger/strings2.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 157,
+                        "endOffset": 958
+                    }
+                }
+            }
+        ]
+    }
+]

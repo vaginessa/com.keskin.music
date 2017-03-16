@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-keysexposed/values-pt-keysexposed.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 119,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/values-pt-keysexposed/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 119,
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 134,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/values-pt-keysexposed/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1065,
+                        "endColumn": 138,
+                        "endOffset": 1199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 360,
+                    "endColumn": 135,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/values-pt-keysexposed/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 139,
+                        "endOffset": 1060
+                    }
+                }
+            }
+        ]
+    }
+]

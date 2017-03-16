@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-finger/values-finger.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 49,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/values-finger/strings2.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 872,
+                        "endColumn": 49,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 117,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/values-finger/strings2.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1033,
+                        "endColumn": 125,
+                        "endOffset": 1154
+                    }
+                }
+            }
+        ]
+    }
+]

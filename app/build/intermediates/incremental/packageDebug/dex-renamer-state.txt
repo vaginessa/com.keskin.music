@@ -1,0 +1,7 @@
+#Thu Mar 16 06:06:15 EET 2017
+base.0=/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_987156bd4acf22b41fec16403392180a222e2ed4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e352d839cb79f779b628b0e6e449300788b1b42b/classes.dex
+base.1=/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e352d839cb79f779b628b0e6e449300788b1b42b
+file.0=/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_987156bd4acf22b41fec16403392180a222e2ed4/classes.dex

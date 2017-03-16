@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e977ea5423346c0672500a48812461bf2997dbe">
+        <dex dex="/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_987156bd4acf22b41fec16403392180a222e2ed4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f25f6eae9f15c4c96d70704e13a6e1da1051d603">
+        <dex dex="/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e352d839cb79f779b628b0e6e449300788b1b42b/classes.dex" />
+    </item>
+
+</items>

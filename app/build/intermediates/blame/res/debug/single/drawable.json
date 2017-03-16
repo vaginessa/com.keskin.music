@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/appwidget_button_center.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/appwidget_button_center.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/ic_tab_artists.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/ic_tab_artists.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/list_selector.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/list_selector.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/ic_tab_playlists.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/ic_tab_playlists.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/seek_thumb.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/seek_thumb.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/btn_nowplaying_background_small.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/btn_nowplaying_background_small.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/appwidget_button_right.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/appwidget_button_right.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/progress_horizontal.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/progress_horizontal.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/playlist_tile.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/playlist_tile.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/list_selector_background_transition.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/list_selector_background_transition.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/ic_tab_playback.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/ic_tab_playback.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/list_selector_background.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/list_selector_background.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/ic_tab_songs.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/ic_tab_songs.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/appwidget_button_left.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/appwidget_button_left.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/ic_tab_albums.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/ic_tab_albums.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/drawable/buttonbarbackground.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/drawable/buttonbarbackground.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/layout-land/media_picker_activity_expanding.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/layout-land/media_picker_activity_expanding.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/layout-land/audio_player.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/layout-land/audio_player.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/layout-land/buttonbar.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/layout-land/buttonbar.xml"
+    },
+    {
+        "merged": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/build/intermediates/res/merged/debug/layout-land/media_picker_activity.xml",
+        "source": "/home/a/Desktop/platform_packages_apps_music-gingerbread-release1/app/src/main/res/layout-land/media_picker_activity.xml"
+    }
+]
